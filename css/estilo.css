@@ -1,0 +1,172 @@
+/*INICIO*/ 
+*{
+  margin:0;
+  padding: 0%;
+ }
+
+header{
+    width: 100%;
+    height: 85px;
+    background-color:#19025c;
+}
+
+nav{
+    margin-left:auto;
+   
+}
+nav ul li
+{ 
+    color:azure;
+    display: inline;
+    float: right;
+    padding: 100px;
+    padding-top: 20px;
+    padding-right: 10px;
+   
+}
+li a{
+    color:azure;
+    text-decoration: none;
+}
+#menu{
+    width: 80%;
+    padding: 22px;
+    display: flex;
+    font-size:20px;
+    padding-top: 10px;
+    margin-right: 50%;
+    margin-left: 150px;
+}
+.imgem{
+    width: 60px;
+    height: 60px;
+    padding-bottom: 30px; 
+    margin-left: 10px;
+}
+
+
+/*CONTATO*/
+section{
+    display: flex;
+}
+
+#alessandra{
+    height: 500px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 180px;
+    border-radius: 10px;
+}
+
+#direito{
+    
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:rgba(122, 121, 121, 0.958);
+}
+.Experiência{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color:rgba(122, 121, 121, 0.958);
+}
+
+#nome{
+    width: 600px;
+    height: 29px;
+  
+    
+}
+#email{
+    width: 600px;
+    height: 29px;
+   
+}
+#centroC{
+    margin-left: 400px;
+    margin-top: 20px;
+}
+input[type= submit]{
+    width: 60px;
+    height: 30px;
+    border-radius: 5px;
+    color:white;
+    background-color: #19025c;
+    margin-left: 540px;
+}
+
+
+  /*PORTIFOLIO*/
+#todo{
+    margin-left: 250px;
+    display: flex;
+}
+
+#Projetos{
+    background-color:white;
+    width: 270px;
+    height: 293px;
+    margin-top: 80px;
+    box-shadow: 5px 5px grey;
+    
+}
+#computacao{
+    background-color:white;
+    width: 270px;
+    height: 320x;
+    margin-top: 80px;
+    margin-left: 160px;
+    box-shadow: 5px 5px grey;
+}
+#inicio{
+    width: 80px;
+    height: 80px;
+    padding-left: 90px;
+    padding-top: 25px;
+}
+
+#iniciocom{
+    width: 90px;
+    height: 90px;
+    padding-left: 90px;
+    padding-top: 25px;
+}
+h2{
+   padding-left: 15px;
+   padding-top: 10px;
+   margin-top: 20px;
+}
+#legenda{
+    margin-left: 15px;
+    color:black;
+    font-size: 25px;
+    margin-top: 5px;
+
+}
+#legen{
+    margin-left: 15px;
+    color:black;
+    font-size: 25px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+#button{
+    width: 270px;
+    height: 40px;
+    background-color: #19025c;
+    color:white;
+    margin-top: 34px;
+}
+#butto{
+    width: 270px;
+    height: 40px;
+    background-color: #19025c;
+    color:white;
+    margin: top 40px;
+  
+}
